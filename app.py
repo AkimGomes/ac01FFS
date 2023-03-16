@@ -14,7 +14,7 @@ def main():
         primeira_nota=float(primeira_nota),
         segunda_nota=float(segunda_nota)
     )
-    return f"{primeira_nota} + {segunda_nota} = {resultado_da_media}"
+    return f"{primeira_nota} + {segunda_nota} / 2 = {resultado_da_media}"
 
 
 if __name__ == "__main__":
